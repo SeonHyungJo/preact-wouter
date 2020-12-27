@@ -1,6 +1,6 @@
 {
-  "name": "wouter-preact",
-  "version": "2.7.0",
+  "name": "preact-wouter",
+  "version": "2.6.0",
   "description": "A minimalistic routing for React and Preact (Preact-only version).",
   "type": "module",
   "exports": {
@@ -28,6 +28,6 @@
   "repository": "molefrog/wouter",
   "license": "ISC",
   "peerDependencies": {
-    "preact": "^10.0.0"
+    "preact": "^10.4.8"
   }
 }
